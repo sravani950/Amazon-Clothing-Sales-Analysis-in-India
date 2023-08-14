@@ -4,9 +4,6 @@
 
 Welcome to the Amazon Clothing Sales Analysis Tableau Dashboard! This powerful visualization takes you on a journey through the sales data of clothing categories on Amazon in India. Explore various aspects of sales, including categories, sizes, regions, shipping service levels, and more.
 
-Link to the Dashboard:- https://public.tableau.com/app/profile/yaswanth.mulakala/viz/AmazonIndiaClothesSalesDashboard/Dashboard1?publish=yes
-
-<img width="1385" alt="image" src="https://github.com/ymulakala27/Amazon-Clothing-Sales-Analysis-in-India-/assets/128730384/07af4dac-c0d1-43ab-9466-6e73675fa2e7">
 
 ## Dashboard Elements
 
